@@ -1,0 +1,13 @@
+C:\Users\victo_000\Desktop\HTML\Condicional-Combust-vel\bin\Debug\netcoreapp3.1\Condicional-Combust-vel.exe
+C:\Users\victo_000\Desktop\HTML\Condicional-Combust-vel\bin\Debug\netcoreapp3.1\Condicional-Combust-vel.deps.json
+C:\Users\victo_000\Desktop\HTML\Condicional-Combust-vel\bin\Debug\netcoreapp3.1\Condicional-Combust-vel.runtimeconfig.json
+C:\Users\victo_000\Desktop\HTML\Condicional-Combust-vel\bin\Debug\netcoreapp3.1\Condicional-Combust-vel.runtimeconfig.dev.json
+C:\Users\victo_000\Desktop\HTML\Condicional-Combust-vel\bin\Debug\netcoreapp3.1\Condicional-Combust-vel.dll
+C:\Users\victo_000\Desktop\HTML\Condicional-Combust-vel\bin\Debug\netcoreapp3.1\Condicional-Combust-vel.pdb
+C:\Users\victo_000\Desktop\HTML\Condicional-Combust-vel\obj\Debug\netcoreapp3.1\Condicional-Combust-vel.csprojAssemblyReference.cache
+C:\Users\victo_000\Desktop\HTML\Condicional-Combust-vel\obj\Debug\netcoreapp3.1\Condicional-Combust-vel.AssemblyInfoInputs.cache
+C:\Users\victo_000\Desktop\HTML\Condicional-Combust-vel\obj\Debug\netcoreapp3.1\Condicional-Combust-vel.AssemblyInfo.cs
+C:\Users\victo_000\Desktop\HTML\Condicional-Combust-vel\obj\Debug\netcoreapp3.1\Condicional-Combust-vel.csproj.CoreCompileInputs.cache
+C:\Users\victo_000\Desktop\HTML\Condicional-Combust-vel\obj\Debug\netcoreapp3.1\Condicional-Combust-vel.dll
+C:\Users\victo_000\Desktop\HTML\Condicional-Combust-vel\obj\Debug\netcoreapp3.1\Condicional-Combust-vel.pdb
+C:\Users\victo_000\Desktop\HTML\Condicional-Combust-vel\obj\Debug\netcoreapp3.1\Condicional-Combust-vel.genruntimeconfig.cache
